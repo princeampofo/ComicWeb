@@ -93,58 +93,6 @@ a:hover{
 }
 
 
-
-
-
-@media screen and (max-width:768px){
-	.bottom-left{
-		display: none;
-		width: 5em;
-		height: 45em;
-
-	}
-
-	.bottom-right{
-		display: none;
-		width: 5em;
-		height: 45em;
-
-	}
-
-	.title{
-		width: 15em;
-		height: 2em;
-		
-	}
-
-	.title p{
-		color: white;
-		font-size: 1em;
-	}
-
-	.center{
-		width: 15em;
-		height: 13em;
-		
-	}
-
-	.midinfo{
-		width: 20em;
-	}
-
-	.about{
-		width: 15em;
-		height: 2em;
-	}
-
-	li a{
-		font-size: 1em;
-		
-	}
-
-}
-
-
 .img1{
 	width: 100%;
 	height: 100%;
@@ -439,7 +387,7 @@ iframe{
 
 	.end , iframe {
 		height: 20em;
-  	width: 30em;
+  		width: 30em;
 	}
 
 	.end h3{
@@ -455,7 +403,7 @@ iframe{
 }
 
 
-@media screen and (max-width:950px){
+@media screen and (max-width:768px){
 	.bottom-left{
 		width: 10em;
 		height: 45em;
@@ -502,7 +450,7 @@ iframe{
 
 	.end , iframe {
 		height: 20em;
-  	width: 25em;
+  		width: 25em;
 	}
 
 	.end h3{
