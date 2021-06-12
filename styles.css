@@ -417,7 +417,7 @@ iframe{
 	}
 
 	.title{
-		width: 20em;
+		width: 15em;
 		height: 2em;
 		
 	}
@@ -428,7 +428,7 @@ iframe{
 	}
 
 	.center{
-		width: 20em;
+		width: 15em;
 		height: 15em;
 		
 	}
@@ -439,7 +439,7 @@ iframe{
 
 
 	.about{
-		width: 20em;
+		width: 15em;
 		height: 2em;
 	}
 
@@ -450,7 +450,7 @@ iframe{
 
 	.scene{
 		height: 20em;
-  	width: 25em;
+  		width: 25em;
 	}
 
 	.end , iframe {
