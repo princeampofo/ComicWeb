@@ -404,6 +404,11 @@ iframe{
 
 
 @media screen and (max-width:768px){
+	
+	body{
+		overflow-x: hidden;
+	}
+	
 	.bottom-left{
 		width: 5em;
 		height: 45em;
