@@ -174,12 +174,14 @@ a:hover{
 
 @media screen and (max-width:768px){
 	.bottom-left{
+		display:none;
 		width: 5em;
 		height: 45em;
 
 	}
 
 	.bottom-right{
+		display:none;
 		width: 5em;
 		height: 45em;
 
