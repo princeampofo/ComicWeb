@@ -82,8 +82,7 @@ button i{
 	position: absolute;
 	top: 0;
 	right:0;
-	width: 40px;
-	height: 40px;
+	width: 2.2em;
 }
 
 
@@ -371,12 +370,12 @@ iframe{
 
 	.scene{
 		height: 30em;
-  	width: 40em;
+  		width: 40em;
 	}
 
 	.end , iframe {
 		height: 30em;
-  	width: 40em;
+  		width: 40em;
 	}
 
 
@@ -425,12 +424,12 @@ iframe{
 
 	.scene{
 		height: 20em;
-  	width: 30em;
+  		width: 30em;
 	}
 
 	.end , iframe {
 		height: 20em;
-  	width: 30em;
+  		width: 30em;
 	}
 
 	.end h3{
@@ -496,13 +495,13 @@ iframe{
 	}
 
 	.scene{
-		height: 20em;
-  	width: 25em;
+		height: 18em;
+  		width: 22em;
 	}
 
 	.end , iframe {
-		height: 20em;
-  	width: 25em;
+		height: 18em;
+  		width: 22em;
 	}
 
 	.end h3{
