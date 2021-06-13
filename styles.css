@@ -74,7 +74,7 @@
 
 /*play/pause Button*/
 button i{
-	font-size: 2em;
+	font-size: 1.8em;
 }
 
 /*Audio*/
@@ -82,7 +82,7 @@ button i{
 	position: absolute;
 	top: 0;
 	right:0;
-	width: 2.2em;
+	width: 2.3em;
 }
 
 
