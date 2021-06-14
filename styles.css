@@ -262,6 +262,25 @@ a:hover{
   background: linear-gradient(to right, #67b26f, #4ca2cd); 
 }
 
+.scroll-down{
+	text-align: center;
+	font-size: 2em;
+	animation: jump 1s infinite;
+	position: relative;
+}
+
+@keyframes jump{
+	0%{
+		top: 0px;
+	}
+	50%{
+		top: 20px;
+	}
+	100%{
+		top: 0px;
+	}
+}
+
 .sceneContainer{
 	display: flex;
   justify-content: center;
@@ -511,6 +530,10 @@ iframe{
 
 	.icons{
 		font-size: 10px;
+	}
+	
+	.scroll-down{
+		font-size: 1em;
 	}
 
 	button i{
